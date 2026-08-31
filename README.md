@@ -15,7 +15,6 @@
 
 ---
 
-> Red teamer and vulnerability researcher working where offensive security meets AI: jailbreaking and abliterating LLMs, red-teaming model guardrails, and building the tooling (and the models) from scratch.
 
 ```bash
 skinwalker@void:~$ whoami
