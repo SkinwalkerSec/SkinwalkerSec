@@ -9,12 +9,13 @@
  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;Adversarial+ML+%2F%2F+LLM+red+team;Vulnerability+Researcher;Abliterating+guardrails+%26+building+an+LLM+from+scratch)](https://x.com/SkinwalkerSec)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;Vulnerability+Researcher;Getting+into+the+offensive+side+of+AI;LLM+red-teaming%2C+abliteration%2C+models+from+scratch)](https://x.com/SkinwalkerSec)
 
 </div>
 
 ---
 
+> Penetration tester and vulnerability researcher (OSCP+, OSWP). Currently going deep on the offensive side of AI: LLM red-teaming, abliteration, and building models from scratch to learn how they break.
 
 ```bash
 skinwalker@void:~$ whoami
@@ -23,13 +24,12 @@ James  ::  offensive security + AI
 skinwalker@void:~$ cat ./focus.txt
 > Penetration testing & red-team operations
 > Vulnerability research / exploit development
-> AI security: jailbreaking & abliterating LLMs, red-teaming model guardrails
-> Adversarial ML: refusal-removal research, alignment stress-testing
+> Offensive tooling: MCP servers for Mythic C2, BloodHound, nmap
 
-skinwalker@void:~$ cat ./now.txt
-> Building a language model from scratch
-> Refusal-removal / abliteration experiments on open-weight models
-> Original MCP servers for red-team tooling: Mythic C2, BloodHound, nmap
+skinwalker@void:~$ cat ./learning.txt
+> AI hacking: LLM red-teaming and prompt-level attacks
+> Abliteration and refusal-removal on open-weight models
+> Training a language model from scratch to learn the internals
 
 skinwalker@void:~$ ./loadout --list
 ```
