@@ -52,8 +52,8 @@ skinwalker@sec:~$ ./loadout --list
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=SkinwalkerSec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkinwalkerSec&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SkinwalkerSec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SkinwalkerSec&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)
 ![streak](https://streak-stats.demolab.com?user=SkinwalkerSec&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&sideNums=c9d1d9&currStreakLabel=00FF41)
 
 </div>
