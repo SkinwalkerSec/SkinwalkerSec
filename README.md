@@ -15,6 +15,8 @@
 
 ---
 
+> Red teamer and vulnerability researcher working where offensive security meets AI: jailbreaking and abliterating LLMs, red-teaming model guardrails, and building the tooling (and the models) from scratch.
+
 ```bash
 skinwalker@void:~$ whoami
 James  ::  offensive security + AI
@@ -22,9 +24,13 @@ James  ::  offensive security + AI
 skinwalker@void:~$ cat ./focus.txt
 > Penetration testing & red-team operations
 > Vulnerability research / exploit development
-> AI security: abliterating & jailbreaking LLMs, red-teaming model guardrails
+> AI security: jailbreaking & abliterating LLMs, red-teaming model guardrails
 > Adversarial ML: refusal-removal research, alignment stress-testing
+
+skinwalker@void:~$ cat ./now.txt
 > Building a language model from scratch
+> Refusal-removal / abliteration experiments on open-weight models
+> Original MCP servers for red-team tooling: Mythic C2, BloodHound, nmap
 
 skinwalker@void:~$ ./loadout --list
 ```
@@ -56,15 +62,13 @@ PJPT
 
 | repo | what |
 |------|------|
-| [Pentest-tooling](https://github.com/SkinwalkerSec/Pentest-tooling) | Offensive tooling & scripts |
-| [AI-Tooling](https://github.com/SkinwalkerSec/AI-Tooling)           | LLM offense / defense tooling |
-| [Kali-Setup](https://github.com/SkinwalkerSec/Kali-Setup)           | Reproducible Kali build |
+| [AI-Tooling](https://github.com/SkinwalkerSec/AI-Tooling)           | Original MCP servers for red-team tooling: Mythic C2, BloodHound, nmap |
+| [Pentest-tooling](https://github.com/SkinwalkerSec/Pentest-tooling) | VPN kill-switch, quick HTTP upload server |
+| [Kali-Setup](https://github.com/SkinwalkerSec/Kali-Setup)           | Provision & customize a Kali box: installer, aliases, target-info banner |
 
 ## // uplink
 
 [![X](https://img.shields.io/badge/-@SkinwalkerSec-0D1117?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/SkinwalkerSec)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41)](#)
-[![Blog](https://img.shields.io/badge/-Blog-0D1117?style=flat-square&logo=hugo&logoColor=00FF41)](#)
 
 <div align="center"><sub>
 
