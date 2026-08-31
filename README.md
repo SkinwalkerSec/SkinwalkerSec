@@ -16,17 +16,17 @@
 ---
 
 ```bash
-skinwalker@sec:~$ whoami
+skinwalker@void:~$ whoami
 James  ::  offensive security + AI
 
-skinwalker@sec:~$ cat ./focus.txt
+skinwalker@void:~$ cat ./focus.txt
 > Penetration testing & red-team operations
 > Vulnerability research / exploit development
 > AI security: abliterating & jailbreaking LLMs, red-teaming model guardrails
 > Adversarial ML: refusal-removal research, alignment stress-testing
 > Building a language model from scratch
 
-skinwalker@sec:~$ ./loadout --list
+skinwalker@void:~$ ./loadout --list
 ```
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
@@ -40,7 +40,7 @@ skinwalker@sec:~$ ./loadout --list
 ## // certifications
 
 ```bash
-skinwalker@sec:~$ ls ~/certs
+skinwalker@void:~$ ls ~/certs
 OSCP+
 OSCP
 OSWP
