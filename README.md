@@ -9,7 +9,7 @@
  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;AI+%2F+LLM+Adversary+%E2%80%94+all+in;Vulnerability+Researcher;Abliterating+guardrails+%26+building+an+LLM+from+scratch)](#)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;AI+%2F+LLM+Adversary+%E2%80%94+all+in;Vulnerability+Researcher;Abliterating+guardrails+%26+building+an+LLM+from+scratch)](https://x.com/SkinwalkerSec)
 
 </div>
 
@@ -38,7 +38,23 @@ skinwalker@sec:~$ ./loadout --list
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=00FF41)
 
 ## // certifications
-`OSCP`  `OSWP`  `OCO-AI`  `+ more`  <!-- add the rest of the heap here -->
+
+![OSCP+](https://img.shields.io/badge/OffSec-OSCP%2B-00FF41?style=flat-square&labelColor=0D1117)
+![OSCP](https://img.shields.io/badge/OffSec-OSCP-00FF41?style=flat-square&labelColor=0D1117)
+![OSWP](https://img.shields.io/badge/OffSec-OSWP-00FF41?style=flat-square&labelColor=0D1117)
+![OCO-AI](https://img.shields.io/badge/CyberWarFare_Labs-OCO--AI-00FF41?style=flat-square&labelColor=0D1117)
+
+| certification | issuer | issued |
+|---|---|---|
+| OSCP+ — OffSec Certified Professional+ | OffSec | Mar 2026 &rarr; Mar 2029 |
+| OSCP — OffSec Certified Professional | OffSec | Mar 2026 |
+| OSWP — OffSec Wireless Professional | OffSec | May 2024 |
+| OCO-AI — Offensive Cyber Operations with AI | CyberWarFare Labs | Aug 2026 |
+| Purple Team Fundamentals | CyberWarFare Labs | Apr 2026 |
+| Active Directory Red Team Specialist | CyberWarFare Labs | Dec 2025 |
+| Red Team Operator &ndash; Level 1 | OffSec | Dec 2025 |
+| Active Directory &ndash; Level 1 | OffSec | Dec 2025 |
+| PJPT &mdash; Practical Junior Penetration Tester | TCM Security | &mdash; |
 
 ## // featured
 
@@ -48,19 +64,9 @@ skinwalker@sec:~$ ./loadout --list
 | [AI-Tooling](https://github.com/SkinwalkerSec/AI-Tooling)           | LLM offense / defense tooling |
 | [Kali-Setup](https://github.com/SkinwalkerSec/Kali-Setup)           | Reproducible Kali build |
 
-## // stats
-
-<div align="center">
-
-![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SkinwalkerSec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SkinwalkerSec&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)
-![streak](https://streak-stats.demolab.com?user=SkinwalkerSec&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&sideNums=c9d1d9&currStreakLabel=00FF41)
-
-</div>
-
 ## // uplink
 
-[![X](https://img.shields.io/badge/-X-0D1117?style=flat-square&logo=x&logoColor=00FF41)](#)
+[![X](https://img.shields.io/badge/-@SkinwalkerSec-0D1117?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/SkinwalkerSec)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41)](#)
 [![Blog](https://img.shields.io/badge/-Blog-0D1117?style=flat-square&logo=hugo&logoColor=00FF41)](#)
 
