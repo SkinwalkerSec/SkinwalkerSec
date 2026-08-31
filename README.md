@@ -39,11 +39,18 @@ skinwalker@sec:~$ ./loadout --list
 
 ## // certifications
 
-<div align="center">
-
-[![certs](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=760&lines=OSCP%2B;OSCP;OSWP;OCO-AI+(Offensive+Cyber+Operations+with+AI);Purple+Team+Fundamentals;Active+Directory+Red+Team+Specialist;Red+Team+Operator+-+Level+1;Active+Directory+-+Level+1;PJPT+(Practical+Junior+Penetration+Tester))](#)
-
-</div>
+```bash
+skinwalker@sec:~$ ls ~/certs
+OSCP+
+OSCP
+OSWP
+OCO-AI
+Purple Team Fundamentals
+Active Directory Red Team Specialist
+Red Team Operator - Level 1
+Active Directory - Level 1
+PJPT
+```
 
 ## // featured
 
