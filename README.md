@@ -9,7 +9,7 @@
  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;AI+%2F+LLM+Adversary+%E2%80%94+all+in;Vulnerability+Researcher;Abliterating+guardrails+%26+building+an+LLM+from+scratch)](https://x.com/SkinwalkerSec)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;Adversarial+ML+%2F%2F+LLM+red+team;Vulnerability+Researcher;Abliterating+guardrails+%26+building+an+LLM+from+scratch)](https://x.com/SkinwalkerSec)
 
 </div>
 
@@ -22,8 +22,8 @@ James  ::  offensive security + AI
 skinwalker@sec:~$ cat ./focus.txt
 > Penetration testing & red-team operations
 > Vulnerability research / exploit development
-> AI security — abliterating & jailbreaking LLMs, red-teaming model guardrails
-> Adversarial ML — refusal-removal research, alignment stress-testing
+> AI security: abliterating & jailbreaking LLMs, red-teaming model guardrails
+> Adversarial ML: refusal-removal research, alignment stress-testing
 > Building a language model from scratch
 
 skinwalker@sec:~$ ./loadout --list
@@ -39,22 +39,11 @@ skinwalker@sec:~$ ./loadout --list
 
 ## // certifications
 
-![OSCP+](https://img.shields.io/badge/OffSec-OSCP%2B-00FF41?style=flat-square&labelColor=0D1117)
-![OSCP](https://img.shields.io/badge/OffSec-OSCP-00FF41?style=flat-square&labelColor=0D1117)
-![OSWP](https://img.shields.io/badge/OffSec-OSWP-00FF41?style=flat-square&labelColor=0D1117)
-![OCO-AI](https://img.shields.io/badge/CyberWarFare_Labs-OCO--AI-00FF41?style=flat-square&labelColor=0D1117)
+<div align="center">
 
-| certification | issuer | issued |
-|---|---|---|
-| OSCP+ — OffSec Certified Professional+ | OffSec | Mar 2026 &rarr; Mar 2029 |
-| OSCP — OffSec Certified Professional | OffSec | Mar 2026 |
-| OSWP — OffSec Wireless Professional | OffSec | May 2024 |
-| OCO-AI — Offensive Cyber Operations with AI | CyberWarFare Labs | Aug 2026 |
-| Purple Team Fundamentals | CyberWarFare Labs | Apr 2026 |
-| Active Directory Red Team Specialist | CyberWarFare Labs | Dec 2025 |
-| Red Team Operator &ndash; Level 1 | OffSec | Dec 2025 |
-| Active Directory &ndash; Level 1 | OffSec | Dec 2025 |
-| PJPT &mdash; Practical Junior Penetration Tester | TCM Security | &mdash; |
+[![certs](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=760&lines=OSCP%2B;OSCP;OSWP;OCO-AI+(Offensive+Cyber+Operations+with+AI);Purple+Team+Fundamentals;Active+Directory+Red+Team+Specialist;Red+Team+Operator+-+Level+1;Active+Directory+-+Level+1;PJPT+(Practical+Junior+Penetration+Tester))](#)
+
+</div>
 
 ## // featured
 
