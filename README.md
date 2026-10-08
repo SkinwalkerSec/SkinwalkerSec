@@ -9,30 +9,34 @@
  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%2F%2F+Red+Teamer;Vulnerability+Researcher;Getting+into+the+offensive+side+of+AI;LLM+red-teaming%2C+abliteration%2C+models+from+scratch)](https://x.com/SkinwalkerSec)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester;Vulnerability+Researcher;Breaking+AI+systems+to+learn+how+they+work;Offensive+Security+%2F%2F+AI)](https://x.com/SkinwalkerSec)
+
+[![X](https://img.shields.io/badge/-@SkinwalkerSec-0D1117?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/SkinwalkerSec)
+![OSCP+](https://img.shields.io/badge/OSCP+-0D1117?style=flat-square&logo=offsec&logoColor=00FF41&labelColor=0D1117&color=0D1117)
+![views](https://komarev.com/ghpvc/?username=SkinwalkerSec&color=00FF41&style=flat-square&label=visitors)
 
 </div>
 
 ---
 
-> Penetration tester and vulnerability researcher (OSCP+, OSWP). Currently going deep on the offensive side of AI: LLM red-teaming, abliteration, and building models from scratch to learn how they break.
+> Penetration tester and vulnerability researcher (OSCP+, OSWP). Currently going deep on the offensive side of AI: adversarial attacks on LLMs, abliteration, and building models from scratch to learn how they break.
 
 ```bash
 skinwalker@void:~$ whoami
 James  ::  offensive security + AI
 
 skinwalker@void:~$ cat ./focus.txt
-> Penetration testing & red-team operations
+> Penetration testing & offensive operations
 > Vulnerability research / exploit development
 > Offensive tooling: MCP servers for Mythic C2, BloodHound, nmap
 
 skinwalker@void:~$ cat ./learning.txt
-> AI hacking: LLM red-teaming and prompt-level attacks
+> LLM attacks: prompt injection, output handling, data poisoning
 > Abliteration and refusal-removal on open-weight models
 > Training a language model from scratch to learn the internals
-
-skinwalker@void:~$ ./loadout --list
 ```
+
+## // loadout
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41)
@@ -45,32 +49,51 @@ skinwalker@void:~$ ./loadout --list
 ## // certifications
 
 ```bash
-skinwalker@void:~$ ls ~/certs
-OSCP+
-OSCP
-OSWP
-OCO-AI
-Purple Team Fundamentals
-Active Directory Red Team Specialist
-Red Team Operator - Level 1
-Active Directory - Level 1
-PJPT
+skinwalker@void:~$ tree ~/certs
+/home/skinwalker/certs
+├── offensive
+│   ├── OSCP+
+│   ├── OSCP
+│   ├── PJPT
+│   └── Red Team Operator - Level 1
+├── active-directory
+│   ├── Active Directory Red Team Specialist
+│   └── Active Directory - Level 1
+├── ai
+│   └── OCO-AI
+├── defensive
+│   └── Purple Team Fundamentals
+└── wireless
+    └── OSWP
 ```
 
 ## // featured
 
-| repo | what |
-|------|------|
-| [AI-Tooling](https://github.com/SkinwalkerSec/AI-Tooling)           | Original MCP servers for red-team tooling: Mythic C2, BloodHound, nmap |
-| [Pentest-tooling](https://github.com/SkinwalkerSec/Pentest-tooling) | VPN kill-switch, quick HTTP upload server |
-| [Kali-Setup](https://github.com/SkinwalkerSec/Kali-Setup)           | Provision & customize a Kali box: installer, aliases, target-info banner |
+<div align="center">
 
-## // uplink
+<a href="https://github.com/SkinwalkerSec/AI-Tooling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinwalkerSec&repo=AI-Tooling&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&hide_border=true" alt="AI-Tooling" /></a>
+<a href="https://github.com/SkinwalkerSec/Pentest-tooling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinwalkerSec&repo=Pentest-tooling&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&hide_border=true" alt="Pentest-tooling" /></a>
+<a href="https://github.com/SkinwalkerSec/Kali-Setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SkinwalkerSec&repo=Kali-Setup&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&hide_border=true" alt="Kali-Setup" /></a>
 
-[![X](https://img.shields.io/badge/-@SkinwalkerSec-0D1117?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/SkinwalkerSec)
+</div>
 
-<div align="center"><sub>
+## // stats
 
-![views](https://komarev.com/ghpvc/?username=SkinwalkerSec&color=00FF41&style=flat-square&label=visitors)
+<div align="center">
 
-</sub></div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SkinwalkerSec&show_icons=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&hide_border=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkinwalkerSec&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&hide_border=true" alt="top languages" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkinwalkerSec/SkinwalkerSec/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkinwalkerSec/SkinwalkerSec/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SkinwalkerSec/SkinwalkerSec/output/github-snake-dark.svg" />
+</picture>
+
+<sub><code>// end of transmission</code></sub>
+
+</div>
