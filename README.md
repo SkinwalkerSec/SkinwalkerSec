@@ -12,6 +12,7 @@
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester;Vulnerability+Researcher;Breaking+AI+systems+to+learn+how+they+work;Offensive+Security+%2F%2F+AI)](https://x.com/SkinwalkerSec)
 
 [![X](https://img.shields.io/badge/-@SkinwalkerSec-0D1117?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/SkinwalkerSec)
+[![CVE-2026-97365](https://img.shields.io/badge/CVE-2026--97365-00FF41?style=flat-square&labelColor=0D1117)](https://www.cve.org/CVERecord?id=CVE-2026-97365)
 ![OSCP+](https://img.shields.io/badge/OSCP+-0D1117?style=flat-square&logo=offsec&logoColor=00FF41&labelColor=0D1117&color=0D1117)
 ![views](https://komarev.com/ghpvc/?username=SkinwalkerSec&color=00FF41&style=flat-square&label=visitors)
 
@@ -20,6 +21,20 @@
 ---
 
 > Penetration tester and vulnerability researcher (OSCP+, OSWP). Currently going deep on the offensive side of AI: adversarial attacks on LLMs, abliteration, and building models from scratch to learn how they break.
+
+## // disclosures
+
+```bash
+skinwalker@void:~$ cat ./cves.txt
+[+] CVE-2026-97365  ::  path traversal (CWE-22)  ::  CVSS 6.3
+    target  : chonkie-inc/littrs 0.6.1 - 0.6.2
+    sink    : Sandbox::mount()  ->  crates/littrs/src/lib.rs
+    impact  : sandbox mount escapes its root via crafted relative path
+```
+
+<sub>[VulDB](https://vuldb.com/cve/CVE-2026-97365) · [CVE record](https://www.cve.org/CVERecord?id=CVE-2026-97365)</sub>
+
+## // whoami
 
 ```bash
 skinwalker@void:~$ whoami
